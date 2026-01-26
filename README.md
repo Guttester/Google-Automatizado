@@ -51,19 +51,13 @@ A interface identifica a automação como bot e retorna autorização negada.
 
 ## ⚙️ Configuração e Instalação — Selenium
 
-1) **Instale o Java (JDK 17 ou superior):**
-   https://adoptium.net
-2) **Baixe o ChromeDriver compatível com sua versão do Chrome:**
-   https://chromedriver.chromium.org
-- Este arquivo é um executável.
+1) **Instale o Java (JDK 17 ou superior):** https://adoptium.net
+2) **Baixe o ChromeDriver compatível com sua versão do Chrome:** https://chromedriver.chromium.org ( Este arquivo é um executável `.exe` . )
 4) **Configure o PATH do ChromeDriver no sistema.**
-
-5) **Clone o repositório:**
-   git clone https://github.com/Guttester/Google-Automatizados.git
+5) **Clone o repositório:** git clone https://github.com/Guttester/Google-Automatizados.git
 6) **Importe o projeto na IDE (IntelliJ / Eclipse / VS Code).**
-7) **Instale as dependências (Maven/Gradle).**
-- Se possivel, adicione suas depedência e versões no: pom.xml
-8) **Execute os testes via JUnit/TestNG.**
+7) **Instale as dependências (Maven/Gradle).** ( Se possivel, adicione suas depedência e versões no: pom.xml )
+9) **Execute os testes via JUnit/TestNG.**
 
 **Notas:**
 
